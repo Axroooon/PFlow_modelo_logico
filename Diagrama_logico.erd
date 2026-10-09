@@ -804,20 +804,20 @@
       "eJy-IKZhDqtXYBx4e2hvp": {
         "id": "eJy-IKZhDqtXYBx4e2hvp",
         "tableId": "UF1FA_BavBuh33BruT_vU",
-        "name": "descripion",
+        "name": "descripcion",
         "comment": "",
         "dataType": "",
         "default": "",
         "options": 0,
         "ui": {
           "keys": 0,
-          "widthName": 60,
+          "widthName": 62,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1791500240028,
+          "updateAt": 1791504925716,
           "createAt": 1791500231268
         }
       },
